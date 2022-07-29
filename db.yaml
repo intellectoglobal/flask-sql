@@ -1,0 +1,5 @@
+mysql_host: 'localhost'
+mysql_user: 'root'
+mysql_password: 'avaha@9629648554'
+mysql_db: 'flaskapp'
+mysql_port: 330
